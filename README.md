@@ -1,4 +1,4 @@
-# my_shopping_app
+# whatsapp_ui
 
 A new Flutter project.
 
